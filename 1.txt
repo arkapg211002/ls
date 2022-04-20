@@ -1,0 +1,4 @@
+Longest substring of digits in a string such that the length of the substring is 2k and k length half parts has sum of their digits equal to each other.
+
+Time Complexity=o(n^2)
+extra space=o(1)
